@@ -1,17 +1,8 @@
 gitgame
 =======
-MyChange :)
-
-
-Preved, EOF
-=======
-Preved, Roman
-Preved, Kost
-=======
-gitgame
-=======
 Update MyChange :)
 New Update Here
+readme: update to ex. line
 
 Commit #3
 
@@ -24,5 +15,10 @@ vvv
 
 
 Fuuu|
+
+
+Preved, Romanchik
+Preved, Kost
+=======
 
  readme: say hello to kos
