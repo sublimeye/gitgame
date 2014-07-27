@@ -7,12 +7,11 @@ MyChange :)
 
 
 
-Commit #1
+
 
 
 
 ภรรรรรรรรรร
-
+Commit #2
 Fuuu|
-
 Preved, Roman
