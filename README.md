@@ -4,17 +4,15 @@ Update MyChange :)
 New Update Here
 readme: update to ex. line
 
-Commit #3
+Fuuu|
 
+Commit #3
 
 vvv
 zzz
 vvv
 vvv
 
-
-
-Fuuu|
 
 
 Preved, Romanchik
